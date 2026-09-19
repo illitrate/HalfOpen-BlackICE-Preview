@@ -9,7 +9,7 @@ You run a sector. You defend it by placing **ICE** — Intrusion Countermeasures
 Electronics — and you probe the opposing sector to find and break theirs before they
 break yours.
 
-## It is not Battleship
+## 
 
 - **ICE nodes are polyominoes, not straight lines.** Finding one occupied cell no
   longer narrows the search to four neighbours, so deduction becomes two-dimensional.
@@ -37,4 +37,4 @@ In development, targeting iOS 27. Not yet released.
 
 ---
 
-© 2026 illitrate. All rights reserved.
+© 2026 illitrate Publicashions. All rights reserved.
